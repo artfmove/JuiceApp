@@ -1,6 +1,6 @@
 # JuiceApp
 The Great JuiceApp was made for make your purchase easy and comfort.
-Choose the product you want to order, specify quantity and addrres delivery.
+Choose the product you want to order, specify quantity and address delivery.
 The application uses Firebase authentication(Google, mail-password, etc), Firebase Realtime Database, provider, flutter_platform_widgets.
 <div class="row">
  <img src="https://firebasestorage.googleapis.com/v0/b/juice-495a1.appspot.com/o/github-juice%2F%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202020-12-30%20%D0%B2%2020.40.19.png?alt=media&token=4311a219-8027-4ca3-80b4-5ec2808187ff" width="350" title="hover text">
