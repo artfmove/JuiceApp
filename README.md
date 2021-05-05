@@ -17,8 +17,6 @@ The application uses Firebase authentication(Google, mail-password, etc), Fireba
 <img src="https://firebasestorage.googleapis.com/v0/b/juice-495a1.appspot.com/o/github-juice%2F%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202020-12-30%20%D0%B2%2020.41.08.png?alt=media&token=7678a0e2-932f-417d-a25e-688a7d483377" width="350" title="hover text">
 
  </div>
- <div class="row">
- <img src="https://firebasestorage.googleapis.com/v0/b/juice-495a1.appspot.com/o/github-juice%2F%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202020-12-30%20%D0%B2%2020.39.42.png?alt=media&token=f8d08990-6a3f-41fd-bde4-e3a5b45013b5" width="350" title="hover text">
 
  
  </div>
